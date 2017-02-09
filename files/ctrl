@@ -1,0 +1,4 @@
+*/1 * * * * date >> files/date.1 #per min
+*/2 * * * * date >> files/date.2 #two min
+*/3 * * * * date >> files/date.3 #three min
+*/4 * * * * date >> files/date.4 #four min
